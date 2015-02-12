@@ -1,0 +1,2 @@
+['data/CFHTLS/input', '--config', 'raDecRange=149.0 ,1.0 ,152.0 , 4.0', '--id', 'tract=0', 'patch=0,0', 'filter=r']
+['/renoir_data_00/jpreyes/stacks/v9_2_copy/Linux64/pipe_tasks/9.2/bin/reportPatches.py', 'data/CFHTLS/input', '--config', 'raDecRange=149.0 ,1.0 ,152.0 , 4.0', '--id', 'tract=0', 'patch=0,0', 'filter=r']
