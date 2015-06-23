@@ -16,7 +16,7 @@ This repository contains the developped notebooks for the PhD project: "Astronom
 * Subtraction_Pipeline_JP4may15.ipynb
 * Test.ipynb
 * diff_04D2cf
-* 
+
 ##Notebooks on Version 10.0
 
 * Coaddition (being updated to 10.0)
