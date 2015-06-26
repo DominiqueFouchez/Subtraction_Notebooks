@@ -19,7 +19,8 @@ This repository contains the developped notebooks for the PhD project: "Astronom
 
 ##Notebooks on Version 10.0
 
-* Coaddition (being updated to 10.0)
+* Coaddition 
+* Subtraction Pipeline Statistics June.ipynb (Some functionalities are missing in this version)
 
 ##Notebooks on Version 10.1 
 
