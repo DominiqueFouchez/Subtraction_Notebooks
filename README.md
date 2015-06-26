@@ -21,6 +21,10 @@ This repository contains the developped notebooks for the PhD project: "Astronom
 
 * Coaddition (being updated to 10.0)
 
+##Notebooks on Version 10.1 
+
+* Coaddition (being updated to 10.1)
+
 ##How-to-use
 
 **Coaddition** Notebooks depends on the reportPatches task that can be found as a bin file on pipe tasks. For some reason, it is necessary to link towards such file. Make the PYTHONPATH add a local my_package directory with the .py file, so the task can work. This should be corrected.
